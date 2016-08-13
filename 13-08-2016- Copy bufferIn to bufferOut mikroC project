@@ -1,0 +1,6 @@
+echo "# pic-18f2550-mikroC" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/kaki8b/pic-18f2550-mikroC.git
+git push -u origin master
